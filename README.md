@@ -33,6 +33,4 @@ Usar a ideia de um processo para inserir e outro para monitorar, só que com um 
 
 ## Uso de I.A
 
-Dada a minha nao familiariadade com a linguagem, usei a ferramenta claude code
-para dar suporte em detalhes de implementacao e sintaxe (e. g. comocriar um projeto e C#,como criar um processo em paralelos em C#, como ler do argumentos do teminal, 
-como mandar um e-mail pelo codigo e que biblioteca usar). Tambem o usei, ao final, para "polir" o codigo, organizando e comentando partes faltantes (incluindo a formatacao desse READE.ME).
+Dada a minha não familiaridade com a linguagem, usei a ferramenta Claude Code para dar suporte em detalhes de implementação e sintaxe (e.g. como criar um projeto em C#, como criar um processo em paralelo em C#, como ler os argumentos do terminal, como mandar um e-mail pelo código e que biblioteca usar). Também o usei, ao final, para "polir" o código, organizando e comentando partes faltantes (incluindo a formatação desse README).
