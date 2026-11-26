@@ -22,7 +22,7 @@ A cada chamada, o programa ficava rodando em background como uma thread, acompan
 
 ### 2) CSV
 
-Usar um CSV para armazenar as ações e intervalos, com o `Program.cs` sendo usado para inserir e o `Monitor.cs` para fazer os requests.
+Usar um CSV para armazenar as ações e intervalos, com o `Program.cs` sendo usado para inserir e o `Monitor.cs` para fazer os requests. Essa versão pode ser encontrada em `version_csv_incomplete.zip`.
 
 - Vantagem: fácil de implementar e não precisa de biblioteca extra.
 - Desvantagem: lidar com ações duplicadas não é fácil, e ficar verificando se uma ação já foi usada não escala.
